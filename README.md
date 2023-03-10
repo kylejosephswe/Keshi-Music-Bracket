@@ -1,3 +1,3 @@
 # Keshi-Music-Bracket
-Music bracket built of Keshi songs. The user eliminates songs one by one until they find their favorite.    
+Music bracket is a creative game made for music enjoyers built of Keshi songs. The user eliminates songs one by one until they find their favorite.    
 Deployed here: [https://keshi-music-bracket.web.app/](https://keshi-music-bracket.web.app/)
